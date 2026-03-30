@@ -1,0 +1,18 @@
+# textdomain: uraniumstuff
+Uranium Ingot=
+Uranium Ore=
+Uranium Sword=
+Uranium Pickaxe=
+Uranium Shovel=
+Uranium Axe=
+Uranium Helmet=
+Uranium Chestplate=
+Uranium Leggings=
+Uranium Boots=
+Uranium Shield=
+Uranium Block=
+Uranium Lump=
+Green Goo=
+Flowing Green Goo=
+Evil Green Goo=
+Flowing Evil Green Goo=
